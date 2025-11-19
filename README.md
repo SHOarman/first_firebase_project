@@ -1,16 +1,42 @@
-# newprjoect
+🚀 Firebase Authentication Flutter App
 
-A new Flutter project.
+A simple and clean Flutter application that implements Firebase Email & Password Authentication. This is my first project using Firebase, built to practice and understand the basics of authentication.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+📌 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🔐 Firebase Email/Password Authentication
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📧 TextField for Email
+
+🔑 TextField for Password
+
+🚪 Login Button
+
+❗ Displays error messages (invalid email, wrong password, etc.)
+
+⚙ Minimal and user-friendly UI
+
+
+
+---
+
+🛠 Tech Stack
+
+Flutter
+
+Dart
+
+Firebase Authentication
+
+
+
+---
+
+📱 UI Overview
+
+Email input
+
+Password input
